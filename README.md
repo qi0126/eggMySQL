@@ -10,7 +10,7 @@ egg做node后端接口
 
 
 
-##### 后端（egg增删改查接口，已做好跨域）
+##### 后端（egg + mysql + typescript 增删改查接口，已做好跨域）
 
 cd server
 
